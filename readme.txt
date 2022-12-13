@@ -1,8 +1,8 @@
 Install npm and ruby
 
-Run npm init in your terminal when you first create your project
+Run `npm init` in your terminal when you first create your project
 
-Then run npm install boostrap --save 
+Then run `npm install boostrap --save`
 
 Create a main.scss file and a main.css file. Link the main.css in your index.html file.
 
